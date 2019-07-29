@@ -3,7 +3,7 @@
 
 演習を最後まで進めると、次のような画面が得られます。画面上の黒い領域にマウスで数字を描くと、それがどの数字なのかを認識して表示します。
 
-![Screenshot of complete application]({{ site.baseurl }}/images/complete_screenshot.png)
+![Screenshot of complete application](images/complete_screenshot.png)
 
 動作するデモが[ここ](https://milhidaka.github.io/webdnn-exercise/example/)から見られます。
 
